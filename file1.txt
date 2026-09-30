@@ -1,1 +1,2 @@
 Hello Git Training
+Adding more details for my second commit
